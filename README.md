@@ -6,5 +6,4 @@ To run tests:
     - gem install cucumber
     - gem install rspec
 3. in terminal cd to project folder
-4. type "cucumber" (no quotes)
-5. 
+4. type "cucumber" (no quotes) hit return
