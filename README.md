@@ -1,7 +1,7 @@
 To run tests:
 
 1. install Ruby < 2.0.0
-2. in terminal (command line install libraries):
+2. in terminal (command line) install libraries:
     - gem install selenium-webdriver
     - gem install cucumber
     - gem install rspec
